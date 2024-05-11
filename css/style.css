@@ -1,0 +1,31 @@
+
+html{
+    background-color:rgba(250, 250, 250, 0.801);
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0px;
+}
+
+.d-inblock{
+    display: inline-block;
+}
+
+.azul{
+    background-color: rgb(40, 96, 201);
+}
+
+.blanco{
+    background-color: rgb(255, 255, 255);
+}
+
+.contenido{
+    vertical-align: center;
+}
+
+img{
+    width: 35%;
+    position: relative;
+    border-radius: 100%;
+    top: 100px;
+}
